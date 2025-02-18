@@ -31,4 +31,3 @@ class JOUEUR():
 class MOTEUR():
 	# taux de rafraîchissement des mises à jour
 	FPS = 1/30.
-	print("salut")
